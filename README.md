@@ -8,3 +8,6 @@ Además, existe la opción de TTS del resumen realizado previamente.
 El objetivo era practicar un poco con la API de [OpenAI](https://platform.openai.com/docs/api-reference) (ChatGPT) y la API de [ElevenLabs](https://beta.elevenlabs.io). 
 El backend se ha hecho con FastAPI y el frontend con React (copiando un poco los estilos de Midu, ya que no es mi campo).
 
+![](https://github.com/Rafitis/infojobs-hackaton/blob/main/infojobs-hackaton.jpg)
+
+Para hacerlo funcionar es necesario tener cuenta en OpenAI y ElevenLabs (para la parte de TTS). Se debe añadir un fichero .env con las API-KEYS de cada plataforma.
