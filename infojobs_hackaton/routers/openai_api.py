@@ -130,7 +130,7 @@ def get_completion(job_offer, model="gpt-3.5-turbo"):
     Tu trabajo es generar un resumen de una oferta de trabajo obtenida \
     de un portal de trabajos llamado Infojobs.
 
-    Te voy a proporcionar los datos de la oferta en formato JSON entre backpicks más abajo. Tu debes resumir la oferta de trabajo y devolver el resultado texto plano. Debes transformar los números a texto. Por ejemplo: 5 -> cinco, 9 -> Nueve, 20 -> veinte. 
+    Te voy a proporcionar los datos de la oferta en formato JSON entre backpicks más abajo. Tu debes resumir la oferta de trabajo y devolver el resultado texto plano. Debes transformar los números a texto. 
      
     El resumen no debe ocupar más de 100 palabras y debe incluir una breve descripción de la oferta, el nombre de la empresa,
     la ciudad, los requerimientos del puesto de trabajo y el sueldo si lo hubiera.
